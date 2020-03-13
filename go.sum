@@ -23,6 +23,8 @@ github.com/synerex/proto_pcounter v0.0.4 h1:iy+8I8Evo2ZTUmVKh54aepvDebdPonj93HST
 github.com/synerex/proto_pcounter v0.0.4/go.mod h1:PN6vV7FFIPOLTMREfwcAh8y6qkU3lj3tro0Q1/nU8TA=
 github.com/synerex/proto_pcounter v0.0.5 h1:TDhd/emb2r3rOHLgthdtfpnIIKzfg+DFFzhC3L365gw=
 github.com/synerex/proto_pcounter v0.0.5/go.mod h1:PN6vV7FFIPOLTMREfwcAh8y6qkU3lj3tro0Q1/nU8TA=
+github.com/synerex/proto_pcounter v0.0.6 h1:tt/mWkKWivqBIl5PqgdtDn3FrJqeI+luEL5ZRdEKP7Q=
+github.com/synerex/proto_pcounter v0.0.6/go.mod h1:PN6vV7FFIPOLTMREfwcAh8y6qkU3lj3tro0Q1/nU8TA=
 github.com/synerex/synerex_api v0.3.1 h1:fmxQhVaag/OUJELNoBxhebZ5Z23/cgfCNdYGl9XUY3g=
 github.com/synerex/synerex_api v0.3.1/go.mod h1:sVqiujIdRBLEtKGw4pKjNK3SPgK0ymTlLWL8Drf266A=
 github.com/synerex/synerex_nodeapi v0.5.1 h1:jIKKg/7T7WndmWCcCWnDFxMS2Hvw8qk7hzxG/boetYw=
